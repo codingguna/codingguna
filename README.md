@@ -8,6 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://codingguna.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codingguna)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gs400pass@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guna.sekar.an)
 
 </div>
 
@@ -15,7 +16,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Final-year **B.E. Information Technology** student at Annamalai University (8.26 CGPA)
+- 🎓 Pursued **B.E. Information Technology** at Annamalai University (8.26 CGPA)
 - 📱 I build cross-platform mobile apps with **React Native** and **Flutter**
 - 🔧 Backend development with **Python Django** and **REST APIs**
 - 🌱 Currently working on my capstone project — **Fault Node Detection in WSNs** using ML
@@ -61,8 +62,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🎓 [**GPA / CGPA Calculator**](https://github.com/codingguna) | React Native app to track semester-wise GPA with AsyncStorage + automated APK builds via GitHub Actions & Expo EAS | React Native · Expo EAS · GitHub Actions |
-| 🔔 [**Firebase Push Notifier**](https://github.com/codingguna/click_notifi) | Flutter app + Django backend that triggers & displays real-time FCM push notifications | Flutter · Django · Firebase FCM |
+| 🎓 [**GPA / CGPA Calculator**](https://github.com/codingguna/gpa-cgpa-calculator/) | React Native app to track semester-wise GPA with AsyncStorage + automated APK builds via GitHub Actions & Expo EAS | React Native · Expo EAS · GitHub Actions |
+| 🔔 [**Firebase Push Notifier**](https://github.com/codingguna/click_notifi/) | Flutter app + Django backend that triggers & displays real-time FCM push notifications | Flutter · Django · Firebase FCM |
 | 🏥 **MemoTrack** *(Internship)* | Hospital task management app built during internship at C-RIHT with production REST API integration | Flutter · REST API · Provider |
 | 🛒 [**Webcart**](https://github.com/codingguna/Webcart) | Dynamic e-commerce web app with product management and cart functionality | HTML · CSS · JavaScript |
 

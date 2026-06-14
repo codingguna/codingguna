@@ -16,10 +16,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Pursued **B.E. Information Technology** at Annamalai University (8.26 CGPA)
+- 🎓 **B.E. Information Technology** graduate at Annamalai University (8.26 CGPA)
 - 📱 I build cross-platform mobile apps with **React Native** and **Flutter**
 - 🔧 Backend development with **Python Django** and **REST APIs**
-- 🌱 Currently working on my capstone project — **Fault Node Detection in WSNs** using ML
 - 💡 I enjoy turning ideas into real, working apps
 - 📍 Based in Tamil Nadu, India
 

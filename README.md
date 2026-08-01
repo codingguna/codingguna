@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **B.E. Information Technology** graduate at Annamalai University (8.26 CGPA)
+- 🎓 **B.E. Information Technology** graduate at Annamalai University (8.30 CGPA)
 - 📱 I build cross-platform mobile apps with **React Native** and **Flutter**
 - 🔧 Backend development with **Python Django** and **REST APIs**
 - 💡 I enjoy turning ideas into real, working apps
@@ -37,6 +37,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -45,6 +46,8 @@
 **Database & Cloud**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
@@ -61,8 +64,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🎓 [**GPA / CGPA Calculator**](https://github.com/codingguna/gpa-cgpa-calculator/) | React Native app to track semester-wise GPA with AsyncStorage + automated APK builds via GitHub Actions & Expo EAS | React Native · Expo EAS · GitHub Actions |
-| 🔔 [**Firebase Push Notifier**](https://github.com/codingguna/click_notifi/) | Flutter app + Django backend that triggers & displays real-time FCM push notifications | Flutter · Django · Firebase FCM |
+| 🎓 [**GPA / CGPA Calculator**](https://github.com/codingguna/gpa-cgpa-calculator/) | React Native app to track semester-wise GPA with AsyncStorage + automated APK builds via GitHub Actions & Expo [...]
+| 🔔 [**Firebase Push Notifier**](https://github.com/codingguna/click_notifi/) | Flutter app + Django backend that triggers & displays real-time FCM push notifications | Flutter · Django · Firebas[...]
 | 🏥 **MemoTrack** *(Internship)* | Hospital task management app built during internship at C-RIHT with production REST API integration | Flutter · REST API · Provider |
 | 🛒 [**Webcart**](https://github.com/codingguna/Webcart) | Dynamic e-commerce web app with product management and cart functionality | HTML · CSS · JavaScript |
 
